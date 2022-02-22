@@ -1,10 +1,10 @@
-#Exercícios do Curso de Java Completo
+# Exercícios do Curso de Java Completo
 
 Este repositório contém alguns exercícios resolvidos do Curso **Java Completo: Programação Orientada a Objetos + Projetos** disponível na Udemy (https://www.udemy.com).
 
 O curso é ministrado pelo professor Nelio Alves (https://github.com/acenelio).
 
-###Principais módulos abordados no curso:
+### Principais módulos abordados no curso:
 - Lógica de programação e algoritmos
 - Sintaxe da linguagem Java
 - Classes, atributos e métodos
